@@ -3,8 +3,8 @@ package factorymethod;
 import java.util.Calendar;
 
 public class InterstateBusTicket extends Ticket {
-    public InterstateBusTicket(String origin, String destiny, Calendar dateTime) {
-        super(origin, destiny, dateTime);
+    public InterstateBusTicket(String origin, String destination, Calendar dateTime) {
+        super(origin, destination, dateTime);
     }
 
     @Override
