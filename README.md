@@ -6,3 +6,4 @@
 * [Factory Method](java/factorymethod)
 * [Abstract Factory](java/abstractfactory)
 * [Builder](java/builder)
+* [Prototype](java/prototype)
