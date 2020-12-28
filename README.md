@@ -7,3 +7,7 @@
 * [Abstract Factory](java/abstractfactory)
 * [Builder](java/builder)
 * [Prototype](java/prototype)
+
+### Structural Patterns
+
+* [Bridge](java/bridge)
