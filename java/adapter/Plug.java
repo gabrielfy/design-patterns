@@ -1,4 +1,5 @@
 package adapter;
 
-class Plug {
+abstract class Plug {
+	public abstract String pickUpElectricity();
 }
