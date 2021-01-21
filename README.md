@@ -2,12 +2,13 @@
 
 ### Creational Patterns
 
-* [Singleton](java/singleton)
-* [Factory Method](java/factorymethod)
-* [Abstract Factory](java/abstractfactory)
-* [Builder](java/builder)
-* [Prototype](java/prototype)
+- [Singleton](java/singleton)
+- [Factory Method](java/factorymethod)
+- [Abstract Factory](java/abstractfactory)
+- [Builder](java/builder)
+- [Prototype](java/prototype)
 
 ### Structural Patterns
 
-* [Bridge](java/bridge)
+- [Bridge](java/bridge)
+- [Adapter](java/adapter)
