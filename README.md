@@ -14,3 +14,4 @@
 - [Adapter](java/adapter)
 - [Proxy](java/proxy)
 - [Decorator](java/decorator)
+- [Composite](java/composite)
