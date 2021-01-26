@@ -1,12 +1,12 @@
 package decorator;
 
-class Boll extends Decorator {
-	public Boll(Tree tree) {
+class Ball extends Decorator {
+	public Ball(Tree tree) {
 		super(tree);
 	}
 
 	public void showOrnaments() {
 		super.showOrnaments();
-		System.out.print("Boll, ");
+		System.out.print("Ball, ");
 	}
 }

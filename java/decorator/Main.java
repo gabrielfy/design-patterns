@@ -5,11 +5,11 @@ class Main {
 		Tree christmasTree = new ChristmasTree();
 
 		christmasTree = new Star(christmasTree);
-		christmasTree = new Boll(christmasTree);
-		christmasTree = new Boll(christmasTree);
-		christmasTree = new Boll(christmasTree);
-		christmasTree = new Boll(christmasTree);
-		christmasTree = new Boll(christmasTree);
+		christmasTree = new Ball(christmasTree);
+		christmasTree = new Ball(christmasTree);
+		christmasTree = new Ball(christmasTree);
+		christmasTree = new Ball(christmasTree);
+		christmasTree = new Ball(christmasTree);
 		christmasTree = new BlinkingLights(christmasTree);
 
 		christmasTree.showOrnaments();
