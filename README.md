@@ -13,3 +13,4 @@
 - [Bridge](java/bridge)
 - [Adapter](java/adapter)
 - [Proxy](java/proxy)
+- [Decorator](java/decorator)
