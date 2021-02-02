@@ -15,3 +15,4 @@
 - [Proxy](java/proxy)
 - [Decorator](java/decorator)
 - [Composite](java/composite)
+- [Flyweight](java/flyweight)
