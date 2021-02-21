@@ -16,3 +16,7 @@
 - [Decorator](java/decorator)
 - [Composite](java/composite)
 - [Flyweight](java/flyweight)
+
+### Behavioral Patterns
+
+- [Command](java/command)
