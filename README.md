@@ -20,3 +20,4 @@
 ### Behavioral Patterns
 
 - [Command](java/command)
+- [Strategy](java/strategy)
