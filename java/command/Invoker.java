@@ -1,6 +1,5 @@
 package command;
 
-import java.util.List;
 import java.util.ArrayList;
 
 class Invoker {
