@@ -23,3 +23,4 @@
 - [Strategy](java/strategy)
 - [State](java/state)
 - [Observer](java/observer)
+- [Mediator](java/mediator)
