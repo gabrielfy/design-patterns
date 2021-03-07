@@ -22,3 +22,4 @@
 - [Command](java/command)
 - [Strategy](java/strategy)
 - [State](java/state)
+- [Observer](java/observer)
