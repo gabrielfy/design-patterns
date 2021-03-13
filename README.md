@@ -24,3 +24,4 @@
 - [State](java/state)
 - [Observer](java/observer)
 - [Mediator](java/mediator)
+- [Chain of responsibility](java/chainofresponsibility)
