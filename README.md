@@ -27,3 +27,4 @@
 - [Chain of responsibility](java/chainofresponsibility)
 - [Template method](java/templatemethod)
 - [Interpreter](java/interpreter)
+- [Memento](java/memento)
