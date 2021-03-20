@@ -26,3 +26,4 @@
 - [Mediator](java/mediator)
 - [Chain of responsibility](java/chainofresponsibility)
 - [Template method](java/templatemethod)
+- [Interpreter](java/interpreter)
