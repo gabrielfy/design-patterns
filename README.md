@@ -29,3 +29,4 @@
 - [Interpreter](java/interpreter)
 - [Memento](java/memento)
 - [Iterator](java/iterator)
+- [Visitor](java/visitor)
